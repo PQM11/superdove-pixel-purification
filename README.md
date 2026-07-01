@@ -35,7 +35,7 @@ Paths are set at the top of each notebook via a `BASE` variable pointing to a lo
 | `avocado_group.zip`  | Axarquía (Vélez-Málaga) | Avocado plot (~1.07 ha) |
 | `mangoe_group.zip`   | Axarquía (Vélez-Málaga) | Mango plot (~1.04 ha) |
 
-Each archive contains the full shapefile set (`.shp`, `.shx`, `.dbf`, `.prj`). CRS: `[indicar EPSG]`.
+Each archive contains the full shapefile set (`.shp`, `.shx`, `.dbf`, `.prj`). CRS: `[25830/25831]`.
 
 ### Derived analysis tables (CSV)
 
